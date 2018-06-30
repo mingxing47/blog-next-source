@@ -244,7 +244,7 @@ post_wordcount:
   #description: ex. subscribe to my blog by scanning my public wechat account
 
 # Reward
-reward_comment: 比赞赏更重要的，是这篇文章给你带来的新知与思考
+reward_comment: 获取新知比赞赏更重要
 wechatpay: /images/wechatpay.jpg
 #alipay: /images/alipay.jpg
 #bitcoin: /images/bitcoin.png
